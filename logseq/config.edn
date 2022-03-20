@@ -168,7 +168,7 @@
  :favorites ["gtd-dashboard" "random-thought" "Quotes" "Captrue" "读看听"]
  :graph/settings {:journal? false, :builtin-pages? false}
  :publishing/all-pages-public? false
- :zotero/settings-v2 {"default" {:type-id "8940609", :page-insert-prefix "@ ", :zotero-data-directory "/Users/12465/Zotero", :extra-tags "", :overwrite-mode? false}}
+ :zotero/settings-v2 {"default" {:type-id "8940609", :page-insert-prefix "@ ", :zotero-data-directory "C:\\Users\\12465\\Zotero\\", :extra-tags "", :overwrite-mode? false}}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
