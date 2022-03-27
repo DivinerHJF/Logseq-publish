@@ -1,4 +1,5 @@
 - 🏳‍🌈 Annual Visions
+  collapsed:: true
 	- 👨‍🔧 事业
 		- 冲向杭州
 		- 存下 10 W
@@ -10,7 +11,7 @@
 		- 体重回到 125 斤
 		- 注意睡眠，脸部保养起来，光嫩如初
 	- 🎈 其他
-		- 持续输出（Logseq+）
+		- 保持持续输出（Logseq+blog）
 - ⏳ Weekly Plans
 	- #milestone
 - In progress
