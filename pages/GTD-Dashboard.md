@@ -1,5 +1,8 @@
-- Annual Visions
-	-
+- 🏳‍🌈 Annual Visions
+	- 工作：冲向杭州
+	- 英语
+	- 健身
+	- 其他
 - #milestone
 - In progress
 	- {{query (todo now)}}
