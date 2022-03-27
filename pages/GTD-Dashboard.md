@@ -1,11 +1,13 @@
 - 🏳‍🌈 Annual Visions
-	- 👨‍🔧🕰 事业
-		- 1. 冲向杭州
-		  2. 存下 10 W
+	- 👨‍🔧 事业
+		- 冲向杭州
+		- 存下 10 W
 	- 🧿 英语
+		- 1.
 	- 🤸‍♂️ 身体
 	- 其他
-- ⏳ Weekly  #milestone
+- ⏳ Weekly Plans
+	- #milestone
 - In progress
 	- {{query (todo now)}}
 - Todo
