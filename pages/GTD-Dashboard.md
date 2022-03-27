@@ -13,7 +13,7 @@ public:: true
 		- #milestone SQL 累积 100 题
 		- #milestone 整理两版简历 for (数分 or 计划)
 	- 语言
-		- 中午时候看 Youtube 英语视频，并
+		- 中午时候看 Youtube 英语视频，看完后并用 logseq 记录，统一打标签
 	-
 - In progress
 	- {{query (todo now)}}
