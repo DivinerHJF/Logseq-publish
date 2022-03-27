@@ -165,7 +165,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["gtd-dashboard" "random-thought" "Quotes" "Captrue" "读看听"]
+ :favorites ("gtd-dashboard" "random-thought" "Quotes" "Captrue" "读看听" "吃啥")
  :graph/settings {:journal? false, :builtin-pages? false}
  :publishing/all-pages-public? false
  :zotero/settings-v2 {"default" {:type-id "8940609", :page-insert-prefix "@ ", :zotero-data-directory "C:\\Users\\12465\\Zotero\\", :extra-tags "", :overwrite-mode? false}}
