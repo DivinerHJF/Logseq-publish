@@ -1,4 +1,7 @@
+public:: true
+
 - 🏳‍🌈 [[Annual Visions]]
+  collapsed:: true
 	- query-table:: false
 	  |👨‍🔧 事业|🧿 语言|
 	  |---|---|
