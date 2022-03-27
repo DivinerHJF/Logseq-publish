@@ -17,7 +17,9 @@ public:: true
 		- 本周抽出两个晚上的十点后时间来学习手语，用 logseq 记录，统一打标签 #SyStudy #study
 	- 身体
 		- 本周至少三天晚上 `跑步 or 跳绳 or 跟练`，下班后打球不计入其中，手表做记录
-		-
+			- 跑步开辟新线路！
+		- 周二、周四、周六记得用脱毛仪
+	-
 - In progress
 	- {{query (todo now)}}
 - Todo
