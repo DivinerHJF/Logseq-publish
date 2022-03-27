@@ -1,5 +1,5 @@
+-
 - In progress
-  collapsed:: true
 	- {{query (todo now)}}
 - Todo
   collapsed:: true
