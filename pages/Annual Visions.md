@@ -11,5 +11,5 @@
 		- #身体 睡回脸部光嫩
 	- 🎈 其他
 		- #其他 保持持续输出
-			- Logseq（）
-			- blog
+			- Logseq (daily&GTD)
+			- blog (Weekly&Article)
