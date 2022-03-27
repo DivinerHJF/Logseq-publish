@@ -16,7 +16,8 @@ public:: true
 		- 中午时候看 Youtube 英语视频，看完后并用 logseq 记录，统一打标签 #EnStudy #study
 		- 本周抽出两个晚上的十点后时间来学习手语，用 logseq 记录，统一打标签 #SyStudy #study
 	- 身体
-		- 本周至少三次 `跑步 or 跳绳 or 跟练`
+		- 本周至少三天晚上 `跑步 or 跳绳 or 跟练`，下班后打球不计入其中，手表做记录
+		-
 - In progress
 	- {{query (todo now)}}
 - Todo
