@@ -4,8 +4,8 @@
 		- #milestone SQL 累积 100 题，每日 logseq 记录，统一标签 #SqlStudy #study
 		- #milestone 整理两版简历 for (数分 or 计划)
 	- 🧿 语言
-		- 中午时候看 Youtube 英语视频，看完后并用 logseq 记录，统一标签 #EnStudy #study
-		- 本周抽出两个晚上的十点后时间来学习手语，用 logseq 记录，统一标签 #SyStudy #study
+		- 午休看英语视频，看完用 logseq 记录，统一标签 #EnStudy #study
+		- 两次学习手语，学时用 logseq 记录，统一标签 #SyStudy #study
 	- 🤸‍♂️ 身体
 		- 本周至少三天晚上 `跑步 or 跳绳 or 跟练`，下班后打球不计入其中，手表做记录
 			- 跑步开辟新线路！
