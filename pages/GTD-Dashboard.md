@@ -1,4 +1,3 @@
--
 - In progress
 	- {{query (todo now)}}
 - Todo
