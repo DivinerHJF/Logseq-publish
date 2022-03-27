@@ -9,9 +9,11 @@ public:: true
 	  |---|---|
 	  |{{query (and [[2022]] [[身体]])  }}|{{query (and [[2022]] [[其他]])  }}|
 - ⏳ Weekly Plans
-	- #milestone SQL 累积 100 题
-	- #milestone 整理两版简历 for (数分 or 计划)
-	-
+	- 事业
+		- #milestone SQL 累积 100 题
+		- #milestone 整理两版简历 for (数分 or 计划)
+	- 语言
+		- 中午时候看 Youtube 英语视频，并
 	-
 - In progress
 	- {{query (todo now)}}
