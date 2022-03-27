@@ -1,3 +1,7 @@
+-
+- | 1|2|
+  | --- | --- |
+  |{{query (todo now)}}|{{query (todo later)}}|
 - In progress
 	- {{query (todo now)}}
 - Todo
