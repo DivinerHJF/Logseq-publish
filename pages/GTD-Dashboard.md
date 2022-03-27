@@ -1,5 +1,5 @@
 - 🏳‍🌈 Annual Visions
-  collapsed:: true
+	- |👨‍🔧 事业|🧿 语言|🤸‍♂️身体
 	- 👨‍🔧 事业
 		- 冲向杭州
 		- 存下 10 W
