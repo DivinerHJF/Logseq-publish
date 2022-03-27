@@ -9,7 +9,8 @@ public:: true
 	  |---|---|
 	  |{{query (and [[2022]] [[身体]])  }}|{{query (and [[2022]] [[其他]])  }}|
 - ⏳ Weekly Plans
-	- #milestone SQL
+	- #milestone SQL 累积 100 题
+	- #milestone
 	-
 - In progress
 	- {{query (todo now)}}
