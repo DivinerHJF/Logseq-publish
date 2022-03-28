@@ -1,3 +1,5 @@
+public:: true
+
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/3NSkk31vFbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - Plan the night before
 	- 一方面在思想上做好准备：预先谋划好要做什么，避免坐在那里再思考，浪费巨量时间
