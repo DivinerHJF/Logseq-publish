@@ -1,3 +1,4 @@
+public:: true
 tags:: #study
 
 - Git 基本原理系列视频
