@@ -12,9 +12,9 @@ public:: true
 - ⏳ [[Weekly Plans]]
 	- {{embed ((624072d8-10e0-4434-9973-3b252cd0e873))}}
 - In progress
+  collapsed:: true
 	- {{query (todo now)}}
 - Todo
-  collapsed:: true
 	- {{query (todo later)}}
 	  query-table:: false
 - Done
