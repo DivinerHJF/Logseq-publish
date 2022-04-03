@@ -1,7 +1,6 @@
 public:: true
 
 - 🏳‍🌈 [[Annual Visions]]
-  collapsed:: true
 	- query-table:: false
 	  |👨‍🔧 事业|🧿 语言|
 	  |---|---|
@@ -14,7 +13,6 @@ public:: true
 - In progress
 	- {{query (todo now)}}
 - Todo
-  collapsed:: true
 	- {{query (todo later)}}
 	  query-table:: false
 - Done
