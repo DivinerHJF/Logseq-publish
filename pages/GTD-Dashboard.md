@@ -14,7 +14,6 @@ public:: true
 - In progress
 	- {{query (todo now)}}
 - Todo
-  collapsed:: true
 	- {{query (todo later)}}
 	  query-table:: false
 - Done
