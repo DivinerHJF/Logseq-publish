@@ -13,4 +13,6 @@ template:: Daily
 	- [[今日奖赏]] (0.5h)
 	  background-color:: #49767b
 -
-- template::
+- template:: Study
+  学习，我爱学习
+	-
