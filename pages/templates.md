@@ -2,12 +2,11 @@ template:: daily
 dd
 
 	- Todo
-		-
+		- {{query (todo later)}}
+		  query-table:: false
 	- 今日聚焦（10h）
 	  background-color:: #264c9b
 		- LATER 接着精读复现本周 tidyverse 妙方案啦，贪婪的吸收起来 🤗
-		  collapsed:: true
-			- {{query (todo later)}}
 	- 今日奖赏（2h）
 	  background-color:: #497d46
 		- 刷手机记录美言美语
