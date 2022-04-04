@@ -2,7 +2,7 @@ template:: daily
 dd
 
 	- 本周主线
-		-
+		- {{embed ((624072d8-10e0-4434-9973-3b252cd0e873))}}
 	- 灵感待办
 	  background-color:: #978626
 	  collapsed:: true
