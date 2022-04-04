@@ -34,7 +34,10 @@
   :block/updated-at 1648961526975}
  {:block/name "apr 3rd, 2022",
   :block/created-at 1648951542313,
-  :block/updated-at 1648962074296}
+  :block/updated-at 1649062545495}
+ {:block/name "apr 4th, 2022",
+  :block/created-at 1649057913218,
+  :block/updated-at 1649062530802}
  {:block/name "attachments",
   :block/created-at 1647778266241,
   :block/updated-at 1647778266241}
@@ -65,15 +68,24 @@
  {:block/name "dpmb",
   :block/created-at 1647522620291,
   :block/updated-at 1647522620291}
+ {:block/name "dreams",
+  :block/created-at 1649058120036,
+  :block/updated-at 1649058120036}
  {:block/name "enstudy",
   :block/created-at 1648390471050,
   :block/updated-at 1648390471050}
+ {:block/name "evening reflections",
+  :block/created-at 1649058120042,
+  :block/updated-at 1649058120042}
  {:block/name "favorites",
   :block/created-at 1646918808978,
   :block/updated-at 1646918808978}
  {:block/name "git",
   :block/created-at 1648559881271,
   :block/updated-at 1648563388611}
+ {:block/name "gratitude",
+  :block/created-at 1649058120030,
+  :block/updated-at 1649058120030}
  {:block/name "gtd-dashboard",
   :block/created-at 1646918074723,
   :block/updated-at 1648390948299}
@@ -161,9 +173,15 @@
  {:block/name "mar 31st, 2022",
   :block/created-at 1648656000550,
   :block/updated-at 1648737083582}
+ {:block/name "meeting notes",
+  :block/created-at 1649058120038,
+  :block/updated-at 1649058120038}
  {:block/name "milestone",
   :block/created-at 1648395693558,
   :block/updated-at 1648395693558}
+ {:block/name "morning pages",
+  :block/created-at 1649058120029,
+  :block/updated-at 1649058120029}
  {:block/name "november rain",
   :block/created-at 1647089085080,
   :block/updated-at 1647688707617}
@@ -173,6 +191,9 @@
  {:block/name "oct 1st, 2001",
   :block/created-at 1647778265658,
   :block/updated-at 1647778265658}
+ {:block/name "one thing to remember",
+  :block/created-at 1649058120034,
+  :block/updated-at 1649058120034}
  {:block/name "quotes",
   :block/created-at 1646986026085,
   :block/updated-at 1647355781351}
@@ -188,6 +209,12 @@
  {:block/name "systudy",
   :block/created-at 1648390630245,
   :block/updated-at 1648390630245}
+ {:block/name "templates",
+  :block/created-at 1649060709878,
+  :block/updated-at 1649061331775}
+ {:block/name "thinking about",
+  :block/created-at 1649058120031,
+  :block/updated-at 1649058120031}
  {:block/name "todo",
   :block/created-at 1646918808978,
   :block/updated-at 1646918808978}
@@ -208,7 +235,22 @@
   :block/updated-at 1648958481958}
  {:block/name "weekly plans",
   :block/created-at 1648390872131,
-  :block/updated-at 1648734146267}
+  :block/updated-at 1649061789133}
+ {:block/name "what challenges are proving useful_",
+  :block/created-at 1649058120035,
+  :block/updated-at 1649058120035}
+ {:block/name "what could have gone better_",
+  :block/created-at 1649058120046,
+  :block/updated-at 1649058120046}
+ {:block/name "what happened today_",
+  :block/created-at 1649058120043,
+  :block/updated-at 1649058120043}
+ {:block/name "what is my goal for today_",
+  :block/created-at 1649058120037,
+  :block/updated-at 1649058120037}
+ {:block/name "what went well_",
+  :block/created-at 1649058120045,
+  :block/updated-at 1649058120045}
  {:block/name "《1公升の泪》经典感人语录！",
   :block/created-at 1647621082777,
   :block/updated-at 1647621225150}
@@ -242,6 +284,15 @@
  {:block/name "事业",
   :block/created-at 1648388834259,
   :block/updated-at 1648388834259}
+ {:block/name "今日主线",
+  :block/created-at 1649061331775,
+  :block/updated-at 1649061331775}
+ {:block/name "今日奖赏",
+  :block/created-at 1649060057887,
+  :block/updated-at 1649060057887}
+ {:block/name "今日聚焦",
+  :block/created-at 1649060048651,
+  :block/updated-at 1649060048651}
  {:block/name "健听女孩",
   :block/created-at 1648826262415,
   :block/updated-at 1648826262415}
