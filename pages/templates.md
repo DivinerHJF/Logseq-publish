@@ -1,19 +1,18 @@
 template:: daily
 今
 
-	- 本周主线
+	- [[本周主线]]
 	  background-color:: #533e7d
 	  collapsed:: true
 		- {{embed ((624072d8-10e0-4434-9973-3b252cd0e873))}}
-	- 灵感待办
+	- [[灵感待办]]
 	  background-color:: #264c9b
 	  collapsed:: true
 		- {{query (todo later)}}
 		  query-table:: false
-	- 今日聚焦（10h）
+	- [[今日聚焦]]（10h）
 	  background-color:: #497d46
-		- LATER 接着精读复现本周 tidyverse 妙方案啦，贪婪的吸收起来 🤗
-	- 今日奖赏（2h）
+	- [[今日奖赏]]（2h）
 	  background-color:: #49767b
 		- 刷手机记录美言美语
 - date_finished:: 
