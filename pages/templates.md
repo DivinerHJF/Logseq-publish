@@ -1,5 +1,5 @@
 template:: Daily
-[[每日主线]]
+[[今日主线]]
 
 	- 本周主线
 	  background-color:: #533e7d
