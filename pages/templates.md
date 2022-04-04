@@ -1,4 +1,5 @@
 template:: daily
+background-color:: #497d46
 [[每日主线]]
 
 	- [[本周主线]]
