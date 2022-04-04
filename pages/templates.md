@@ -1,5 +1,4 @@
-template:: 
-tags::
+template:: daily
 
 - date_finished:: 
   author:: 
