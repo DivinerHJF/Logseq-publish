@@ -1,7 +1,9 @@
 template:: daily
 dd
 
-	- Todo
+	-
+	- 灵感待办
+	  collapsed:: true
 		- {{query (todo later)}}
 		  query-table:: false
 	- 今日聚焦（10h）
