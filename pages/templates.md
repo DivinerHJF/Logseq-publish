@@ -1,5 +1,5 @@
-template:: Daily review
-dd
+template:: daily
+今
 
 	- 本周主线
 	  background-color:: #533e7d
