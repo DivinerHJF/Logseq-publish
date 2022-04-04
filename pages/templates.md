@@ -3,6 +3,7 @@ template:: Daily
 
 	- 本周主线
 	  background-color:: #533e7d
+		- {{embed ((624072d8-10e0-4434-9973-3b252cd0e873))}}
 	- 随机待办
 	  background-color:: #264c9b
 	  collapsed:: true
