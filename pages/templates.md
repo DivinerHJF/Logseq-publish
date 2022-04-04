@@ -1,5 +1,23 @@
 template:: daily
+dd
 
+	- 今日聚焦（10h）
+	  background-color:: #264c9b
+	  DEADLINE: <2022-04-03 Sun 23:00>
+	  SCHEDULED: <2022-04-03 Sun 10:00>
+		- NOW #博文 疯狂写作时间 📃
+		  :LOGBOOK:
+		  CLOCK: [2022-03-31 Thu 21:42:47]--[2022-04-01 Fri 11:15:22] =>  13:32:35
+		  CLOCK: [2022-04-01 Fri 11:15:23]--[2022-04-01 Fri 11:15:24] =>  00:00:01
+		  CLOCK: [2022-04-01 Fri 11:15:25]--[2022-04-01 Fri 11:16:32] =>  00:01:07
+		  CLOCK: [2022-04-03 Sun 11:54:26]
+		  :END:
+		- LATER 接着精读复现本周 tidyverse 妙方案啦，贪婪的吸收起来 🤗
+		  collapsed:: true
+			- {{query (todo later)}}
+	- 今日奖赏（2h）
+	  background-color:: #497d46
+		- 刷手机记录美言美语
 - date_finished:: 
   author:: 
   tags:: 
