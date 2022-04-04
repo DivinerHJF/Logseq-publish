@@ -1,8 +1,10 @@
 template:: daily
 dd
 
-	-
+	- 本周主线
+		-
 	- 灵感待办
+	  background-color:: #978626
 	  collapsed:: true
 		- {{query (todo later)}}
 		  query-table:: false
