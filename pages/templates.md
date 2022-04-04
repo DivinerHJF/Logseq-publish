@@ -1,5 +1,6 @@
-- template:: tags
-  tags::
+template:: 
+tags::
+
 - date_finished:: 
   author:: 
   tags:: 
