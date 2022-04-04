@@ -1,5 +1,5 @@
-template:: daily
 background-color:: #497d46
+template:: Daily
 [[每日主线]]
 
 	- 本周主线
@@ -15,7 +15,6 @@ background-color:: #497d46
 	  background-color:: #497d46
 	- [[今日奖赏]]（2h）
 	  background-color:: #49767b
-	-
 - date_finished:: 
   author:: 
   tags:: 
