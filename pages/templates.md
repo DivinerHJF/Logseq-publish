@@ -1,5 +1,5 @@
 template:: daily
-今
+[[每日主线]]
 
 	- [[本周主线]]
 	  background-color:: #533e7d
@@ -10,11 +10,10 @@ template:: daily
 	  collapsed:: true
 		- {{query (todo later)}}
 		  query-table:: false
-	- [[今日聚焦]]（10h）
+	- [[今日聚焦]]（4h）
 	  background-color:: #497d46
 	- [[今日奖赏]]（2h）
 	  background-color:: #49767b
-		- 刷手机记录美言美语
 - date_finished:: 
   author:: 
   tags:: 
