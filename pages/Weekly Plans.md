@@ -2,7 +2,7 @@
   id:: ff783b96-c710-4ac9-aaa7-75149c8fe694
 	- 👨‍🔧 事业
 		- 简历准备两份，然后用公司电脑打印出来嘿嘿，这周，立刻马上！
-		- TidyTuesday
+		- 本周 TidyTuesday 做中学，上传 Github，考虑 Blog 单开一个！
 	- 🧿 语言
 		-
 	- 🤸‍♂️ 身体
