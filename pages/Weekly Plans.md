@@ -34,8 +34,8 @@
 		- 读书观影：本月书影音 4
 		  SCHEDULED: <2022-04-05 Tue .+7d>
 		- 创作：多点开花结果
-			- 1 Blog Weekly [[Apr 15th, 2022]]
-			- 2 Blog Articles
+			- 1 Blog Weekly [[Apr 16th, 2022]]
+			- 2 Blog Articles [[Apr 9th, 2022]] [[Apr 15th, 2022]]
 			- 1 平台视频投稿
 	- 🍳 复盘
 	  background-color:: #497d46
