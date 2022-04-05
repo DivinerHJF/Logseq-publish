@@ -25,9 +25,10 @@
 			- 预算：房贷 1720，房租 700，吃饭 700，通勤 150，消费 250
 		- 读书观影：本月书影音 4
 		- 创作：开花结果
-			- 每日 logseq 记录
-			- 每周 blog
+			- logseq Journals Everyday
+			- 1 Blog Weekly
 			- 2 Blog Articles
+			- 1 个
 	- 🍳 复盘
 	  background-color:: #497d46
 		- 事业 0%、语言 0%、身体 0%、进步 0%
