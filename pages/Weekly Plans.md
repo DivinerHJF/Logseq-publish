@@ -18,8 +18,10 @@
 	- 🤸‍♂️ 身体
 		- 强身健体
 			- 三次跑步 [[Apr 6th, 2022]] [[Apr 8th, 2022]] [[Apr 12th, 2022]]
-			- Zoey 七天瘦身计划之马甲线
+			- [Zoey 七天瘦身计划之马甲线](https://youtube.com/playlist?list=PLapiWVZYSin_snEYVErv8V0p1fJoK7pRP)
+			  collapsed:: true
 			  SCHEDULED: <2022-04-05 Tue .+7d>
+				-
 				- ![跟练课表](https://image-host-1255524710.cos.ap-beijing.myqcloud.com/img/5d1eb431ly1golx0s6wauj20u047kx6q.jpg)
 		- 美形美体
 		  collapsed:: true
