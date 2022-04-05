@@ -17,9 +17,8 @@
 			- 可以看看怎么与原视频有机结合呢！
 	- 🤸‍♂️ 身体
 		- 强身健体
-		  collapsed:: true
 			- 三次跑步 [[Apr 6th, 2022]] [[Apr 8th, 2022]] [[Apr 12th, 2022]]
-			- 两次核心跟练 [[Apr 5th, 2022]] [[Apr 9th, 2022]]
+			- Zo [[Apr 5th, 2022]] [[Apr 9th, 2022]]
 			- 一次全身 HIIT [[Apr 10th, 2022]]
 		- 美形美体
 		  collapsed:: true
