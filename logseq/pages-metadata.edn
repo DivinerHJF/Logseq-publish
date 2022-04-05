@@ -14,6 +14,9 @@
   "@ statistical modeling_ the two cultures (with comments and a rejoinder by the author)",
   :block/created-at 1647778377394,
   :block/updated-at 1647778377394}
+ {:block/name "@ 教育对人的改变有多大？",
+  :block/created-at 1649082061034,
+  :block/updated-at 1649082061034}
  {:block/name "@ 藏在小红书里的“穷人”们",
   :block/created-at 1648958481937,
   :block/updated-at 1648958763314}
@@ -37,7 +40,7 @@
   :block/updated-at 1649062545495}
  {:block/name "apr 4th, 2022",
   :block/created-at 1649057913218,
-  :block/updated-at 1649062530802}
+  :block/updated-at 1649083372001}
  {:block/name "attachments",
   :block/created-at 1647778266241,
   :block/updated-at 1647778266241}
@@ -68,24 +71,15 @@
  {:block/name "dpmb",
   :block/created-at 1647522620291,
   :block/updated-at 1647522620291}
- {:block/name "dreams",
-  :block/created-at 1649058120036,
-  :block/updated-at 1649058120036}
  {:block/name "enstudy",
   :block/created-at 1648390471050,
   :block/updated-at 1648390471050}
- {:block/name "evening reflections",
-  :block/created-at 1649058120042,
-  :block/updated-at 1649058120042}
  {:block/name "favorites",
   :block/created-at 1646918808978,
   :block/updated-at 1646918808978}
  {:block/name "git",
   :block/created-at 1648559881271,
   :block/updated-at 1648563388611}
- {:block/name "gratitude",
-  :block/created-at 1649058120030,
-  :block/updated-at 1649058120030}
  {:block/name "gtd-dashboard",
   :block/created-at 1646918074723,
   :block/updated-at 1648390948299}
@@ -173,15 +167,9 @@
  {:block/name "mar 31st, 2022",
   :block/created-at 1648656000550,
   :block/updated-at 1648737083582}
- {:block/name "meeting notes",
-  :block/created-at 1649058120038,
-  :block/updated-at 1649058120038}
  {:block/name "milestone",
   :block/created-at 1648395693558,
   :block/updated-at 1648395693558}
- {:block/name "morning pages",
-  :block/created-at 1649058120029,
-  :block/updated-at 1649058120029}
  {:block/name "november rain",
   :block/created-at 1647089085080,
   :block/updated-at 1647688707617}
@@ -191,9 +179,6 @@
  {:block/name "oct 1st, 2001",
   :block/created-at 1647778265658,
   :block/updated-at 1647778265658}
- {:block/name "one thing to remember",
-  :block/created-at 1649058120034,
-  :block/updated-at 1649058120034}
  {:block/name "quotes",
   :block/created-at 1646986026085,
   :block/updated-at 1647355781351}
@@ -212,9 +197,6 @@
  {:block/name "templates",
   :block/created-at 1649060709878,
   :block/updated-at 1649061331775}
- {:block/name "thinking about",
-  :block/created-at 1649058120031,
-  :block/updated-at 1649058120031}
  {:block/name "todo",
   :block/created-at 1646918808978,
   :block/updated-at 1646918808978}
@@ -236,21 +218,6 @@
  {:block/name "weekly plans",
   :block/created-at 1648390872131,
   :block/updated-at 1649061789133}
- {:block/name "what challenges are proving useful_",
-  :block/created-at 1649058120035,
-  :block/updated-at 1649058120035}
- {:block/name "what could have gone better_",
-  :block/created-at 1649058120046,
-  :block/updated-at 1649058120046}
- {:block/name "what happened today_",
-  :block/created-at 1649058120043,
-  :block/updated-at 1649058120043}
- {:block/name "what is my goal for today_",
-  :block/created-at 1649058120037,
-  :block/updated-at 1649058120037}
- {:block/name "what went well_",
-  :block/created-at 1649058120045,
-  :block/updated-at 1649058120045}
  {:block/name "《1公升の泪》经典感人语录！",
   :block/created-at 1647621082777,
   :block/updated-at 1647621225150}
@@ -260,9 +227,6 @@
  {:block/name "《sql/r",
   :block/created-at 1648382731108,
   :block/updated-at 1648382731108}
- {:block/name "《sql/r/python 》",
-  :block/created-at 1648382731104,
-  :block/updated-at 1648382731104}
  {:block/name "《sql/r/python 数据处理面面观》",
   :block/created-at 1648382740588,
   :block/updated-at 1648382740588}
