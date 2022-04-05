@@ -19,12 +19,13 @@
 			- 一次全身 HIIT [[Apr 10th, 2022]]
 		- 美形美体
 			- 持续使用脱毛仪
-			  SCHEDULED: <2022-04-05 Tue .+5d>
+			  SCHEDULED: <2022-04-05 Tue .+7d>
 			- 养脸
 	- 🎈 进步
 		- 记账：本月预算 3600
 			- 预算：房贷 1720，房租 700，吃饭 700，通勤 150，消费 250
 		- 读书观影：本月书影音 4
+		  SCHEDULED: <2022-04-05 Tue .+7d>
 		- 创作：多点开花结果
 			- logseq Journals Everyday
 			- 1 Blog Weekly
