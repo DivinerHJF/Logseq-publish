@@ -9,9 +9,8 @@
 	- 🧿 语言
 	  SCHEDULED: <2022-04-05 Tue .+7d>
 		- 开始转战 YouTube，逐步习惯看英文视频，利用 logseq 做笔记
-		  collapsed:: true
 			- 就先选出三个感兴趣的视频开始练手吧
-			- 在 Logseq 里制作一个 YouTube-Vedio-Review 模板
+			- 在 Logseq 里制作一个 Vedio-Review 模板
 		- 手语搞起，录一期手语视频上传平台
 		  collapsed:: true
 			- 初步探索拍摄与剪辑吧，做了再说
