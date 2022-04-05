@@ -168,7 +168,7 @@
  :favorites ["gtd-dashboard" "random-thought" "Quotes" "Captrue" "读看听" "吃啥"]
  :graph/settings {:journal? false, :builtin-pages? false}
  :publishing/all-pages-public? false
- :zotero/settings-v2 {"default" {:overwrite-mode? true}}
+ :zotero/settings-v2 {"default" {:overwrite-mode? true, :zotero-data-directory "C:\\Users\\12465\\Zotero\\"}}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
