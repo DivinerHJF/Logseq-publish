@@ -34,10 +34,7 @@
 		- 读书观影：本月书影音 4
 		  SCHEDULED: <2022-04-05 Tue .+7d>
 		- 创作：多点开花结果
-		  collapsed:: true
-		  SCHEDULED: <2022-04-05 Tue .+7d>
-			- logseq Journals Everyday
-			- 1 Blog Weekly
+			- 1 Blog Weekly [[Apr 15th, 2022]]
 			- 2 Blog Articles
 			- 1 平台视频投稿
 	- 🍳 复盘
