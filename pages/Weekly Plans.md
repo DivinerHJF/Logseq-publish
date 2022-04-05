@@ -1,32 +1,40 @@
 - **202204-Week2**
   id:: ff783b96-c710-4ac9-aaa7-75149c8fe694
 	- 👨‍🔧 事业
+	  collapsed:: true
 		- 简历准备两份，然后用公司电脑打印出来嘿嘿，这周，立刻马上！
 		- 本周 SQL 简单题全部刷完，提高效率，先过一遍再说，别浪费时间！
 		- 本周 TidyTuesday 做中学，上传 Github，Blog 单开一个系列记录这个鬼东西！
 			- 数据解释 + 图表展示 + 源码解析 + 我学到的
 	- 🧿 语言
 		- 开始转战 YouTube，逐步习惯看英文视频，利用 logseq 做笔记
+		  collapsed:: true
 			- 就先选出三个感兴趣的视频开始练手吧
 			- 在 Logseq 里制作一个 YouTube-Vedio-Review 模板
 		- 手语搞起，录一期手语视频上传平台
+		  collapsed:: true
 			- 初步探索拍摄与剪辑吧，做了再说
 			- 可以看看怎么与原视频有机结合呢！
 	- 🤸‍♂️ 身体
 		- 强身健体
+		  collapsed:: true
 			- 三次跑步 [[Apr 6th, 2022]] [[Apr 8th, 2022]] [[Apr 12th, 2022]]
 			- 两次核心跟练 [[Apr 5th, 2022]] [[Apr 9th, 2022]]
 			- 一次全身 HIIT [[Apr 10th, 2022]]
 		- 美形美体
+		  collapsed:: true
 			- 持续使用脱毛仪
 			  SCHEDULED: <2022-04-05 Tue .+7d>
 			- 养脸
 	- 🎈 进步
 		- 记账：本月预算 3600
+		  collapsed:: true
 			- 预算：房贷 1720，房租 700，吃饭 700，通勤 150，消费 250
 		- 读书观影：本月书影音 4
 		  SCHEDULED: <2022-04-05 Tue .+7d>
 		- 创作：多点开花结果
+		  collapsed:: true
+		  SCHEDULED: <2022-04-05 Tue .+7d>
 			- logseq Journals Everyday
 			- 1 Blog Weekly
 			- 2 Blog Articles
