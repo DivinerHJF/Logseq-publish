@@ -36,7 +36,7 @@
 		- 创作：多点开花结果
 			- 1 Blog Weekly [[Apr 16th, 2022]]
 			- 2 Blog Articles [[Apr 9th, 2022]] [[Apr 15th, 2022]]
-			- 1 平台视频投稿
+			- 1 平台视频投稿 [[Apr 10th, 2022]]
 	- 🍳 复盘
 	  background-color:: #497d46
 		- 事业 0%、语言 0%、身体 0%、进步 0%
