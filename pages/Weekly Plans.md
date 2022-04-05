@@ -1,11 +1,11 @@
 - **202204-Week1**
   id:: 624072d8-10e0-4434-9973-3b252cd0e873
 	- 👨‍🔧 事业
-		- #milestone SQL 累积 100 题，logseq 记录，统一标签 #SqlStudy #study 0/100
-		- #milestone 整理两版简历 for (数分 or 计划) 0/2
+		- SQL 累积 100 题，logseq 记录，统一标签 #SqlStudy #study
+		- 整理两版简历 for (数分 or 计划)
 	- 🧿 语言
-		- 午休看英语视频，看完用 logseq 记录，统一标签 #EnStudy #study 5/5
-		- 两次学习手语，学时用 logseq 记录，统一标签 #SyStudy #study 1/2
+		- 午休看英语视频，看完用 logseq 记录，统一标签 #EnStudy #study
+		- 两次学习手语，学时用 logseq 记录，统一标签 #SyStudy #study
 	- 🤸‍♂️ 身体
 		- 至少三次 `跑步 or 跳绳 or 跟练`，下班后打球不计入其中，手表记录
 			- 跑步记得开辟新线路！
