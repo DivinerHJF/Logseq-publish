@@ -33,14 +33,13 @@
 			- 三次跑步 [[Apr 6th, 2022]]
 			  collapsed:: true
 				- 唔，被疫情干掉了，还是老老实实在家瘦身计划蹦蹦跳跳吧
-			- [Zoey 七天瘦身计划之马甲线](https://youtube.com/playlist?list=PLapiWVZYSin_snEYVErv8V0p1fJoK7pRP) >>> 进度 2/7
+			- [Zoey 七天瘦身计划之马甲线](https://youtube.com/playlist?list=PLapiWVZYSin_snEYVErv8V0p1fJoK7pRP) >>> 进度 3/7
 			  collapsed:: true
 			  SCHEDULED: <2022-04-12 Tue .+11d>
 				-
 				- ![跟练课表](https://image-host-1255524710.cos.ap-beijing.myqcloud.com/img/5d1eb431ly1golx0s6wauj20u047kx6q.jpg)
 		- 美形美体
-			- 持续使用脱毛仪
-			  SCHEDULED: <2022-04-12 Tue .+11d>
+			- 持续使用脱毛仪 >>> 可以勇敢穿短裤和同事跑步了，开心！期待腿伤养好的
 			- 养脸 >>> 睡眠越来越不合理，危~~😭
 	- 🎈 进步
 		- 记账：本月预算 4000 (3600常规+400囤货)
