@@ -1,8 +1,8 @@
 title:: % 针对 Omicron 的家庭常备非处方药
+public:: true
+tags:: video-study
 
-- public:: true
-  tags:: video-study
-  [[视频链接]]
+- [[视频链接]]
 	- {{youtube https://youtu.be/SDYiNnt4Lfo}}
 	- [[视频简介]]
 		- 声明：本视频是医学科普，不能作为诊断和治疗的依据。
