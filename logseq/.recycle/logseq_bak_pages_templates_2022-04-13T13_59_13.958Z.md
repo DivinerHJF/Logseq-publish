@@ -24,30 +24,12 @@ template:: Daily
 	  background-color:: #497d46
 		- 事业 0%、语言 0%、身体 0%、进步 0%
 -
-- template:: Weekly-总结
-  public:: true
-  tags:: Weekly-总结
-  [[Weekly Plans]]
-	- **【生活】**
-	  background-color:: #49767b
-		-
-	- **【捕获】**
-	  background-color:: #264c9b
-		-
-	- **【见闻】**
-	  background-color:: #497d46
-		-
-	- **【思索】**
-	  background-color:: #533e7d
-		-
--
 - template:: Vedio
   public:: true
   tags:: video-study
-  [[资源链接]]
+  [[视频链接]]
 	- {{youtube }}
 	- [[视频简介]]
 		-
 	- [[视频笔记]]
 		-
--

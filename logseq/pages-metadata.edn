@@ -1,6 +1,12 @@
 [{:block/name "2022",
   :block/created-at 1648389128437,
   :block/updated-at 1648389128437}
+ {:block/name "202204w1-总结",
+  :block/created-at 1650024009914,
+  :block/updated-at 1650024009914}
+ {:block/name "202204w2-总结",
+  :block/created-at 1650024008284,
+  :block/updated-at 1650024008284}
  {:block/name "6235b997-0b64-4904-b161-e74b96329832",
   :block/created-at 1647792472705,
   :block/updated-at 1647792472705}
@@ -14,15 +20,33 @@
  {:block/name "@ 教育对人的改变有多大？",
   :block/created-at 1649082061034,
   :block/updated-at 1649082061034}
+ {:block/name "@ 新冠肺炎的经济学分析：病死率的因果识别与防控的机会成本",
+  :block/created-at 1649568387407,
+  :block/updated-at 1649568387407}
  {:block/name "@ 藏在小红书里的“穷人”们",
   :block/created-at 1648958481937,
   :block/updated-at 1648958763314}
+ {:block/name "@ 🍻 内卷时代的软件和自媒体",
+  :block/created-at 1650125471280,
+  :block/updated-at 1650125471280}
  {:block/name "@random forests",
   :block/created-at 1649130593089,
   :block/updated-at 1649130593089}
  {:block/name "@教育对人的改变有多大？",
   :block/created-at 1649130607967,
   :block/updated-at 1649130607967}
+ {:block/name "_ cs50",
+  :block/created-at 1649858353397,
+  :block/updated-at 1649858353397}
+ {:block/name "_ taking notes on youtube videos in logseq",
+  :block/created-at 1649569086378,
+  :block/updated-at 1649569333110}
+ {:block/name "_ 针对 omicron 的家庭常备非处方药",
+  :block/created-at 1649858353822,
+  :block/updated-at 1649858353822}
+ {:block/name "_ 麦兜搞it - windows10开发环境搭建",
+  :block/created-at 1649531040910,
+  :block/updated-at 1649565576074}
  {:block/name "a",
   :block/created-at 1646918808978,
   :block/updated-at 1646918808978}
@@ -34,16 +58,28 @@
   :block/updated-at 1648390022561}
  {:block/name "apr 10th, 2022",
   :block/created-at 1649137455904,
-  :block/updated-at 1649137455904}
+  :block/updated-at 1649603945310}
+ {:block/name "apr 11th, 2022",
+  :block/created-at 1649686721625,
+  :block/updated-at 1649686721625}
  {:block/name "apr 12th, 2022",
-  :block/created-at 1649137446498,
-  :block/updated-at 1649137446498}
+  :block/created-at 1649692801471,
+  :block/updated-at 1649694617366}
+ {:block/name "apr 13th, 2022",
+  :block/created-at 1649858354433,
+  :block/updated-at 1649858354433}
+ {:block/name "apr 14th, 2022",
+  :block/created-at 1650024005144,
+  :block/updated-at 1650024005144}
  {:block/name "apr 15th, 2022",
   :block/created-at 1649138441685,
   :block/updated-at 1649138441685}
  {:block/name "apr 16th, 2022",
   :block/created-at 1649138396524,
   :block/updated-at 1649138396524}
+ {:block/name "apr 17th, 2022",
+  :block/created-at 1650125468202,
+  :block/updated-at 1650125468202}
  {:block/name "apr 1st, 2022",
   :block/created-at 1648825871892,
   :block/updated-at 1648961968538}
@@ -52,7 +88,7 @@
   :block/updated-at 1648961526975}
  {:block/name "apr 3rd, 2022",
   :block/created-at 1648951542313,
-  :block/updated-at 1649135183123}
+  :block/updated-at 1649566947234}
  {:block/name "apr 4th, 2022",
   :block/created-at 1649057913218,
   :block/updated-at 1649135485497}
@@ -70,7 +106,7 @@
   :block/updated-at 1649430617478}
  {:block/name "apr 9th, 2022",
   :block/created-at 1649137345473,
-  :block/updated-at 1649514615648}
+  :block/updated-at 1649568894552}
  {:block/name "attachments",
   :block/created-at 1647778266241,
   :block/updated-at 1647778266241}
@@ -142,7 +178,7 @@
   :block/updated-at 1648962096275}
  {:block/name "mar 12th, 2022",
   :block/created-at 1647083264153,
-  :block/updated-at 1647768959217}
+  :block/updated-at 1649566632353}
  {:block/name "mar 13th, 2022",
   :block/created-at 1647100819173,
   :block/updated-at 1647521983336}
@@ -226,7 +262,7 @@
   :block/updated-at 1648390630245}
  {:block/name "templates",
   :block/created-at 1649060709878,
-  :block/updated-at 1649135257804}
+  :block/updated-at 1649565404170}
  {:block/name "todo",
   :block/created-at 1646918808978,
   :block/updated-at 1646918808978}
@@ -236,6 +272,9 @@
  {:block/name "ventoy - 轻量级重装系统利器",
   :block/created-at 1646987766133,
   :block/updated-at 1646987766133}
+ {:block/name "video-study",
+  :block/created-at 1649858353410,
+  :block/updated-at 1649858353410}
  {:block/name "wait",
   :block/created-at 1646918808978,
   :block/updated-at 1646918808978}
@@ -247,7 +286,13 @@
   :block/updated-at 1648958481958}
  {:block/name "weekly plans",
   :block/created-at 1648390872131,
-  :block/updated-at 1649140522277}
+  :block/updated-at 1649566423169}
+ {:block/name "weekly-总结",
+  :block/created-at 1650024009918,
+  :block/updated-at 1650024009918}
+ {:block/name "weekly-见闻",
+  :block/created-at 1649865154500,
+  :block/updated-at 1649865154500}
  {:block/name "《1公升の泪》经典感人语录！",
   :block/created-at 1647621082777,
   :block/updated-at 1647621225150}
@@ -275,6 +320,9 @@
  {:block/name "书籍",
   :block/created-at 1647688742269,
   :block/updated-at 1647688742269}
+ {:block/name "买买买",
+  :block/created-at 1650024005116,
+  :block/updated-at 1650024005116}
  {:block/name "事业",
   :block/created-at 1648388834259,
   :block/updated-at 1648388834259}
@@ -290,6 +338,9 @@
  {:block/name "健听女孩",
   :block/created-at 1648826262415,
   :block/updated-at 1648826262415}
+ {:block/name "关于新冠的记录",
+  :block/created-at 1649568050953,
+  :block/updated-at 1649568392318}
  {:block/name "其他",
   :block/created-at 1648389876401,
   :block/updated-at 1648389876401}
@@ -314,9 +365,24 @@
  {:block/name "吃啥",
   :block/created-at 1647623244597,
   :block/updated-at 1647623244597}
+ {:block/name "囤货",
+  :block/created-at 1650024035751,
+  :block/updated-at 1650024035751}
  {:block/name "外刊逐句精读",
   :block/created-at 1647688087710,
   :block/updated-at 1647688087710}
+ {:block/name "已投递",
+  :block/created-at 1650125471815,
+  :block/updated-at 1650125471815}
+ {:block/name "待回复",
+  :block/created-at 1650125471813,
+  :block/updated-at 1650125471813}
+ {:block/name "待投递",
+  :block/created-at 1650125471816,
+  :block/updated-at 1650125471816}
+ {:block/name "成功",
+  :block/created-at 1650125471811,
+  :block/updated-at 1650125471811}
  {:block/name "我的信息加工流",
   :block/created-at 1649134362916,
   :block/updated-at 1649134362916}
@@ -326,6 +392,12 @@
  {:block/name "数据库刷题笔记",
   :block/created-at 1647688087648,
   :block/updated-at 1647688087648}
+ {:block/name "毫无精神时可做事情",
+  :block/created-at 1649568752725,
+  :block/updated-at 1649568752725}
+ {:block/name "求职记录",
+  :block/created-at 1650125470653,
+  :block/updated-at 1650125470653}
  {:block/name "爱在黎明破晓前",
   :block/created-at 1647355578226,
   :block/updated-at 1647355580971}
@@ -335,15 +407,30 @@
  {:block/name "藏在小红书里的“穷人”们",
   :block/created-at 1648958212505,
   :block/updated-at 1648958730317}
+ {:block/name "视频笔记",
+  :block/created-at 1649565259388,
+  :block/updated-at 1649569288712}
+ {:block/name "视频简介",
+  :block/created-at 1649565236528,
+  :block/updated-at 1649565236528}
+ {:block/name "视频链接",
+  :block/created-at 1649565188868,
+  :block/updated-at 1649565188868}
  {:block/name "语言",
   :block/created-at 1648389789090,
   :block/updated-at 1648389789090}
  {:block/name "读看听",
   :block/created-at 1647623466150,
   :block/updated-at 1647873798134}
+ {:block/name "资源链接",
+  :block/created-at 1649858353407,
+  :block/updated-at 1649858353407}
  {:block/name "身体",
   :block/created-at 1648389796933,
   :block/updated-at 1648389796933}
+ {:block/name "道理都懂只需要练习",
+  :block/created-at 1649568664541,
+  :block/updated-at 1649568664541}
  {:block/name "音乐",
   :block/created-at 1647688707612, 
   :block/updated-at 1647688707612}]
