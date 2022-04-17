@@ -61,6 +61,8 @@
 - ---
 - **202204-Week1**
   id:: 624072d8-10e0-4434-9973-3b252cd0e873
+  DEADLINE: <2022-04-08 Fri>
+  SCHEDULED: <2022-04-01 Fri>
 	- 👨‍🔧 事业
 		- SQL 累积 100 题，logseq 记录，统一标签 #SqlStudy #study
 		- 整理两版简历 for (数分 or 计划)
