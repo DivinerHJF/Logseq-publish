@@ -1,5 +1,6 @@
 - **202204-Week3**
-  SCHEDULED: <2022-04-18 Mon .+7d>
+  DEADLINE: <2022-04-22 Fri>
+  SCHEDULED: <2022-04-16 Sat>
 	- 👨‍🔧 事业
 		-
 	- 🧿 语言
@@ -14,7 +15,7 @@
 -
 - **202204-Week2**
   id:: ff783b96-c710-4ac9-aaa7-75149c8fe694
-  DEADLINE: <2022-04-17 Sun>
+  DEADLINE: <2022-04-15 Fri>
   SCHEDULED: <2022-04-09 Sat>
 	- 👨‍🔧 事业
 		- 简历准备两份，然后用公司电脑打印出来嘿嘿，这周，立刻马上！
