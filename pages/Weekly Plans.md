@@ -60,6 +60,7 @@
 			- 三次跑步 [[Apr 6th, 2022]]
 				- 唔，被疫情干掉了，还是老老实实在家瘦身计划蹦蹦跳跳吧
 			- [Zoey 七天瘦身计划之马甲线](https://youtube.com/playlist?list=PLapiWVZYSin_snEYVErv8V0p1fJoK7pRP) >>> 进度 3/7
+			  collapsed:: true
 				- ![跟练课表](https://image-host-1255524710.cos.ap-beijing.myqcloud.com/img/5d1eb431ly1golx0s6wauj20u047kx6q.jpg)
 		- 美形美体
 			- 持续使用脱毛仪 >>> 可以勇敢穿短裤和同事跑步了，开心！开始期待腿伤养好的那一天了。
