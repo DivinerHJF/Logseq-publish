@@ -10,7 +10,7 @@ public:: true
 	  |---|---|
 	  |{{query (and [[2022]] [[身体]])  }}|{{query (and [[2022]] [[其他]])  }}|
 - ⏳ [[Weekly Plans]]
-	- {{embed ((ff783b96-c710-4ac9-aaa7-75149c8fe694))}}
+	- {{embed ((625cd782-1d8c-4e8d-881d-91841b3d1f54))}}
 - In progress
 	- {{query (todo now)}}
 - Todo
