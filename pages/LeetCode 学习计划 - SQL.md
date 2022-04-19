@@ -1,5 +1,5 @@
 public:: true
-icon:: 
+icon:: 📌
 url:: https://leetcode-cn.com/study-plan/sql/
 
 - [[SQL 入门]]
