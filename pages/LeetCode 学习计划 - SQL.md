@@ -16,4 +16,4 @@ url:: https://leetcode-cn.com/study-plan/sql/
 			- if \ case when 语句、各类函数、数学公式
 		- `DML`: 数据操作语言 >>> [DML：数据操作语言](https://aetherhjf.netlify.app/2020-02-17-%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%AE%B0-01-sql%E8%AF%AD%E6%B3%95%E7%AF%87/#dml%E6%95%B0%E6%8D%AE%E6%93%8D%E4%BD%9C%E8%AF%AD%E8%A8%80)
 			- Insert/delete/update
-		-
+	-
