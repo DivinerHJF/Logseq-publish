@@ -1,10 +1,6 @@
 template:: Daily
 [[今日主线]]
 
-	- 随机待办
-	  background-color:: #264c9b
-	  collapsed:: true
-		- {{query (todo later)}}
 	- [[今日聚焦]] (4h)
 	  background-color:: #497d46
 	- [[今日奖赏]] (0.5h)
