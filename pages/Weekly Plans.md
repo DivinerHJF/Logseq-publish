@@ -17,8 +17,9 @@
 -
 - **202204-Week3**
   id:: 625cd782-1d8c-4e8d-881d-91841b3d1f54
+  collapsed:: true
+  SCHEDULED: <2022-04-16 Sat>
   DEADLINE: <2022-04-23 Sat>
-  SCHEDULED: <2022-04-16 Sat .+8d>
 	- 👨‍🔧 事业
 	  collapsed:: true
 		- SQL：Blog 文章 + LeetCode 刷题
