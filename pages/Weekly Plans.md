@@ -1,6 +1,5 @@
 - **202204-Week3**
   id:: 625cd782-1d8c-4e8d-881d-91841b3d1f54
-  collapsed:: true
   SCHEDULED: <2022-04-16 Sat .+8d>
   DEADLINE: <2022-04-22 Fri>
 	- 👨‍🔧 事业
@@ -36,7 +35,6 @@
 			- 1 Platform Videos
 	- 🍳 复盘
 	  background-color:: #497d46
-	  collapsed:: true
 		- 事业 0%、语言 0%、身体 0%、进步 0% >>> [[202204W3-总结]]
 -
 - **202204-Week2**
