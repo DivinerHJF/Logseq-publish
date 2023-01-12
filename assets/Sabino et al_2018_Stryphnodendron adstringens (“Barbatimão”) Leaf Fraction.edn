@@ -1,1 +1,1 @@
-{:highlights [], :extra {:page 1}}
+{:highlights [{:id #uuid "63c04b4e-2d2f-4e4c-a8e7-16c4fc8421f7", :page 1, :position {:bounding {:x1 298.8958435058594, :y1 470.35418701171875, :x2 473.6711120605469, :y2 487.6875, :width 711.0000000000001, :height 1077.968368345586}, :rects ({:x1 298.8958435058594, :y1 470.35418701171875, :x2 473.6711120605469, :y2 487.6875, :width 711.0000000000001, :height 1077.968368345586}), :page 1}, :content {:text "Stryphnodendron adstringens"}, :properties {:color "yellow"}}], :extra {:page 1}}
