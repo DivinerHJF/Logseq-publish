@@ -13,6 +13,9 @@ public:: true
 	- {{embed ((625cd782-1d8c-4e8d-881d-91841b3d1f54))}}
 - In progress
 	- {{query (todo now)}}
+	  query-table:: false
+	  query-sort-by:: block
+	  query-sort-desc:: false
 - Todo
 	- {{query (todo later)}}
 	  query-table:: false
