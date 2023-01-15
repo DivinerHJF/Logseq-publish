@@ -1,0 +1,26 @@
+/* Put nav buttons on one row, no text */
+.nav-header {
+  margin-left: 2px;
+}
+
+.nav-header .flex-1 {
+  display: none
+}
+
+.nav-header .item {
+  margin-left: 4px;
+  padding: 2px !important;
+}
+
+.nav-header .ui__icon {
+  margin-right: 0px !important;
+}
+
+.nav-header {
+  flex-direction: row;
+}
+
+.flashcards-nav .inline-block {
+  margin-left: 	2px;
+  padding: 0px;
+}
