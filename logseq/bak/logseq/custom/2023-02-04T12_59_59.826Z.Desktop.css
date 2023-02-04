@@ -25,8 +25,10 @@
   padding: 0px;
 }
 
-.cp__sidebar-help-btn:hover /*右下角帮助按钮*/
-,.new-page:hover /*左下角新建页面按钮*/
-,.cp__header:hover /*左上角工具条*/
-,.cp__right-sidebar-topbar:hover /*右上角工具条*/
-{opacity:1}
+
+/* 修改字体 */
+#root>div,
+html,
+body {
+    font-family: ttf-lxgw-wenkai;
+}
