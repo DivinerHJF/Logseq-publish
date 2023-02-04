@@ -27,8 +27,18 @@
 
 
 /* 修改字体 */
+:root {
+    --ct-code-font-family: ttf-lxgw-wenkai, Monaco, Menlo, Consolas, 'COURIER NEW', "等距更纱黑体 SC", monospace;
+    --ls-font-family: 'ttf-lxgw-wenkai', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
+}
+
 #root>div,
 html,
 body {
-    font-family: ttf-lxgw-wenkai;
+    font-family: var(--ls-font-family);
+}
+
+:not(pre)>code,
+.CodeMirror {
+    font-family: var(--ct-code-font-family);
 }
