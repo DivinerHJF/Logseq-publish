@@ -6,7 +6,6 @@ template:: Daily
 	- [[今日奖赏]] (0.5h)
 	  background-color:: #49767b
 -
--
 - template:: Weekly-总结
   public:: true
   tags:: Weekly-总结
@@ -36,3 +35,5 @@ template:: Daily
 	- [[视频笔记]]
 		-
 -
+- **YouTube**
+	- templa
