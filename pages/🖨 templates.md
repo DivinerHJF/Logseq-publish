@@ -1,4 +1,6 @@
-- **P**
+- **Person**
+  collapsed:: true
+	- template:: person
 -
 - **YouTube**
   collapsed:: true
