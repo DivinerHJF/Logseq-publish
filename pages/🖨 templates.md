@@ -36,4 +36,5 @@ template:: Daily
 		-
 -
 - **YouTube**
-	- templa
+	- template:: youtube
+	  tags::
