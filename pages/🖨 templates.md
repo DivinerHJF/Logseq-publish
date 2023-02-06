@@ -1,6 +1,10 @@
 - **Person**
 	- template:: person
-	-
+	- presenter:: 
+	  link:: 
+	  title:: 
+	  published-on:: 
+	  processed-on::
 -
 - **YouTube**
 	- template:: youtube
