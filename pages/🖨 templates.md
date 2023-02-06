@@ -1,6 +1,7 @@
 - **Person**
+  collapsed:: true
 	- template:: person
-	- presenter:: 
+	  presenter:: 
 	  link:: 
 	  title:: 
 	  published-on:: 
