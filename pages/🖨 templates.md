@@ -3,9 +3,8 @@
 	- template:: person
 -
 - **YouTube**
-  collapsed:: true
 	- template:: youtube
-	  tags:: 🎡/📽YouTube
+	  tags:: #🎡/📽YouTube
 	  status:: to/process
 	  presenter:: <Person>
 	- [[YouTube Embed]]
