@@ -1,6 +1,6 @@
 - **Person**
-  collapsed:: true
 	- template:: person
+	-
 -
 - **YouTube**
 	- template:: youtube
