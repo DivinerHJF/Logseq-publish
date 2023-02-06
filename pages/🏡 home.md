@@ -2,4 +2,5 @@ public:: true
 alias:: Home
 
 - Welcome To My Garden
-	- Those notes are mos
+	- Those notes are mostly written for myself but I'm sharing them publicly.
+	- If a
