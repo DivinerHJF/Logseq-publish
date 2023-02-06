@@ -39,4 +39,5 @@ template:: Daily
 	- template:: youtube
 	  tags:: 🎡/📽YouTube
 	  status:: to/process
-	  presenter::
+	  presenter:: <Person>
+	-
