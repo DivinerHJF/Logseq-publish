@@ -69,7 +69,7 @@
 	  collapsed:: true
 		- DONE 开始转战 YouTube，逐步习惯看英文视频，利用 logseq 做笔记
 			- 就先选个感兴趣的视频开始练手吧 >>> [[% 麦兜搞IT - Windows10开发环境搭建]]，以 % 作为视频标志，与文档的 @ 区分
-			- 在 Logseq 里制作一个 Vedio-Review 模板  >>> [[templates]] 已完成
+			- 在 Logseq 里制作一个 Vedio-Review 模板  >>> [[🖨 templates]] 已完成
 		- 手语搞起，录一期手语视频上传平台
 			- 初步探索拍摄与剪辑吧，做了再说
 			- 可以看看怎么与原视频有机结合呢！
