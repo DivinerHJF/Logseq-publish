@@ -7,6 +7,7 @@ template:: Daily
 	  background-color:: #49767b
 -
 - template:: Weekly
+  collapsed:: true
   **202204-Week1**
 	- 👨‍🔧 事业
 		-
@@ -23,6 +24,7 @@ template:: Daily
 - template:: Weekly-总结
   public:: true
   tags:: Weekly-总结
+  collapsed:: true
   [[Weekly Plans]]
 	- **【生活】**
 	  background-color:: #49767b
@@ -40,6 +42,7 @@ template:: Daily
 - template:: Vedio
   public:: true
   tags:: video-study
+  collapsed:: true
   [[资源链接]]
 	- {{youtube }}
 	- [[视频简介]]
