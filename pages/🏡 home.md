@@ -8,4 +8,5 @@ alias:: Home
 -
 - ---
 - You can find all the templates that I use here: [[🖨 templates]]
-- Tags:
+- Tags: #📰Clippings
+-
