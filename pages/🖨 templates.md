@@ -1,9 +1,9 @@
 - **Person**
 	- template:: person
 -
-- **YouTube**
+- **Vedio**
 	- id:: 63e12fde-47e4-49a4-949a-e361813b5092
-	  template:: youtube
+	  template:: Vedio
 	  tags:: #Vedio 
 	  status:: to/process
 	  presenter:: <Person>
