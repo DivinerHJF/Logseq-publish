@@ -1,2 +1,0 @@
-- {{query #读看听}}
-  query-table:: false
