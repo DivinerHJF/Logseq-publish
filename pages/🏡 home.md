@@ -8,4 +8,4 @@ alias:: Home
 -
 - ---
 - You can find all the templates that I use here: [[🖨 templates]]
-- I use logseq to review what i see, what i
+- I use logseq to review what i read, what i see
