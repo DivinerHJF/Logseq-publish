@@ -3,7 +3,7 @@ alias:: Home
 
 - Welcome To My Digital Garden
 	- Those notes are mostly written for myself but I'm sharing them publicly.
-	-
+	- Thank you! It's great to be here. Could you tell me more about your digital garden?
 - Contacts
 	- [Blog](https://aetherhjf.com)
 -
