@@ -165,9 +165,9 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["gtd-dashboard" "random-thought" "Quotes" "求职记录" "我的书影音"]
+ :favorites ["🖨 templates" "🏡 home" "gtd-dashboard"]
  :graph/settings {:journal? false, :builtin-pages? false}
- :publishing/all-pages-public? false
+ :publishing/all-pages-public? true
  :zotero/settings-v2 {"default" {:overwrite-mode? true, :zotero-data-directory "/home/philo/Zotero", :type-id "8940609", :page-insert-prefix "@ ", :zotero-linked-attachment-base-directory "/home/philo/Nutstore Files/Zotero"}}
  :feature/enable-flashcards? false
 
