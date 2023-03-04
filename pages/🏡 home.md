@@ -8,4 +8,4 @@ alias:: Home
 	- [Blog](https://aetherhjf.com)
 - ---
 - You can find all the templates that I use here: [[🖨 templates]]
--
+- [[Archive]]
