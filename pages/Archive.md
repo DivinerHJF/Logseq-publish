@@ -1,0 +1,1 @@
+- 翻译为英文：在 Arch Linux 上安装并使用 Docker
