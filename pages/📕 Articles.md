@@ -1,3 +1,1 @@
-alias:: Articles
-
 - [[How to install and use Docker on Arch Linux]]
