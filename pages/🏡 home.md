@@ -8,4 +8,4 @@ alias:: Home
 	- [Blog](https://aetherhjf.com)
 - ---
 - You can find all the templates and prompts that I use here: [[🖨 templates]]、[[🤖 prompts]]
-- [[Archive]]
+- [[Archive]] |
