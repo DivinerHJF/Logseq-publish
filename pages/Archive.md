@@ -1,2 +1,2 @@
-- 翻译为英文：在 Arch Linux 上安装并使用 Docker
-	- [[How to install and use Docker on Arch Linux]]
+- [[How to install and use Docker on Arch Linux]]
+-
